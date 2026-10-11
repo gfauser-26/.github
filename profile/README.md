@@ -13,7 +13,6 @@ Qui fai esercizi, compiti e verifiche con **Git**, **GitHub** e **`fauser`**, il
 | **`fauser-<username>`** | tu e il docente (privato) | **il tuo repository**: tutte le tue consegne, di tutte le materie, per tutto l'anno | ci lavori ogni giorno: clone, commit, push |
 | [**`fauser`**](https://github.com/gfauser-26/fauser) | tutti | il programma `fauser`, da scaricare dalle [release](https://github.com/gfauser-26/fauser/releases/latest) | lo scarichi una volta e lo aggiorni quando il docente lo dice |
 | [**`tracce`**](https://github.com/gfauser-26/tracce) | tutti | le tracce (`TRACCIA.md`) e i test pubblici di esercizi, compiti e verifiche | **niente**: le scarica `fauser nuovo` per te. Puoi leggerle qui |
-| `consegne-private` | solo il docente | i **test nascosti** con cui il docente ricontrolla le consegne | niente: non lo vedi, ed è giusto così |
 
 Il **progetto personale** sta in un repository suo, a parte.
 
