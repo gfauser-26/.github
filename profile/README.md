@@ -37,8 +37,6 @@ Il **progetto personale** sta in un repository suo, a parte.
 3. **`fauser test`** compila, prova ogni caso e scrive la ricevuta `.esito`.
 4. **Commit piccoli** mentre lavori: `git commit -m "E01: leggo i due numeri"` e `git push`.
 5. **`fauser consegna`** rilancia i test, fa il commit `<ID>: consegna` e il push.
-6. Il docente rifà girare **tutti** i test, anche quelli **nascosti**, sul suo computer.
-
 ---
 
 ## Il primo giorno (una volta sola)
